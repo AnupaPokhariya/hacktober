@@ -8,3 +8,5 @@ print(l)
 
 def AP():
 	print("JFF")
+
+AP()
