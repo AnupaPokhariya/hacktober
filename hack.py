@@ -1,1 +1,1 @@
-print("DIGITALOCEAN....")
+print("DIGITAL OCEAN....")
